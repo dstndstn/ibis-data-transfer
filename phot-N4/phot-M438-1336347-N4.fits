@@ -1,0 +1,188 @@
+SIMPLE  =                    T / file does conform to FITS standard             BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    0 / number of data axes                            EXTEND  =                    T / FITS dataset may contain extensions            COMMENT   FITS (Flexible Image Transport System) format is defined in 'AstronomyCOMMENT   and Astrophysics', volume 376, page 359; bibcode: 2001A&A...376..359H END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'BINTABLE'           / binary table extension                         BITPIX  =                    8 / 8-bit bytes                                    NAXIS   =                    2 / 2-dimensional binary table                     NAXIS1  =                  130 / width of table in bytes                        NAXIS2  =                   84 / number of rows in table                        PCOUNT  =                    0 / size of special data area                      GCOUNT  =                    1 / one data group (required keyword)              TFIELDS =                   23 / number of fields in each row                   TTYPE1  = 'x       '           / label for field   1                            TFORM1  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE2  = 'y       '           / label for field   2                            TFORM2  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE3  = 'expnum  '           / label for field   3                            TFORM3  = 'K       '           / data format of field: 8-byte INTEGER           TTYPE4  = 'filter  '           / label for field   4                            TFORM4  = '4A      '           / data format of field: ASCII Character          TTYPE5  = 'airmass '           / label for field   5                            TFORM5  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE6  = 'exptime '           / label for field   6                            TFORM6  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE7  = 'ccdname '           / label for field   7                            TFORM7  = '2A      '           / data format of field: ASCII Character          TTYPE8  = 'apflux  '           / label for field   8                            TFORM8  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE9  = 'apmag   '           / label for field   9                            TFORM9  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE10 = 'colorterm'          / label for field  10                            TFORM10 = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE11 = 'refmag  '           / label for field  11                            TFORM11 = 'E       '           / data format of field: 4-byte REAL              TTYPE12 = 'ps1_mag_g'          / label for field  12                            TFORM12 = 'E       '           / data format of field: 4-byte REAL              TTYPE13 = 'ps1_mag_stdev_g'    / label for field  13                            TFORM13 = 'E       '           / data format of field: 4-byte REAL              TTYPE14 = 'ps1_mag_r'          / label for field  14                            TFORM14 = 'E       '           / data format of field: 4-byte REAL              TTYPE15 = 'ps1_mag_stdev_r'    / label for field  15                            TFORM15 = 'E       '           / data format of field: 4-byte REAL              TTYPE16 = 'ps1_mag_i'          / label for field  16                            TFORM16 = 'E       '           / data format of field: 4-byte REAL              TTYPE17 = 'ps1_mag_stdev_i'    / label for field  17                            TFORM17 = 'E       '           / data format of field: 4-byte REAL              TTYPE18 = 'ps1_mag_z'          / label for field  18                            TFORM18 = 'E       '           / data format of field: 4-byte REAL              TTYPE19 = 'ps1_mag_stdev_z'    / label for field  19                            TFORM19 = 'E       '           / data format of field: 4-byte REAL              TTYPE20 = 'ps1_mag_y'          / label for field  20                            TFORM20 = 'E       '           / data format of field: 4-byte REAL              TTYPE21 = 'ps1_mag_stdev_y'    / label for field  21                            TFORM21 = 'E       '           / data format of field: 4-byte REAL              TTYPE22 = 'ra      '           / label for field  22                            TFORM22 = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE23 = 'dec     '           / label for field  23                            TFORM23 = 'D       '           / data format of field: 8-byte DOUBLE            END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @¼åõ›R@eÿ˜yÔ     dM438?ó
+=p£×
+@rÀ     N4@øQ¹j`ª@2ÖÛ§b¨?¬ì”    A~ A
+î<[æWA‰2©</¡ÉA†U¹<eÉÍA…a<(A„KÙ=†@uî ´ÉŒ¿ø$·GÌø<@4Û4¤?7t@zò&Š     dM438?ó
+=p£×
+@rÀ     N4@³ö>	ê¡#@5RZäFh:?¬¸    A«² A«B!=¤Ç€A¦è=‹ó‡A£Š4=Á¹ñA£EÔ=¬µnAD>ú[@uîK…F#Í¿ø)ÑB@wC!_[x@Z°wŸ5è     dM438?ó
+=p£×
+@rÀ     N4@û2 D^ô@1ùÄ…û@X?°¾©~   AîüAi<•»'Ac;à_A‹¼v<¥±óA‹wğ<Á7ÊA‹'ø<ç¦å@uíëg_¼Œ¿ø‘…Lßéƒ@#CíP7şè@Z¦õö     dM438?ó
+=p£×
+@rÀ     N4@À’¡’¬9W@4Åim¥×5?¯L³   A§?±A¦Â~=ÿ[QA¢À=‡Ù¥A Ì=z÷©A l£=‰ÏÅAˆC>D‹@uîâ¥¢¿ø&û2:@}ûÿõ3éó@‡ê¨ìƒ.G     dM438?ó
+=p£×
+@rÀ     N4@ÃŠF[oí÷@4—¡”§UF?®»z    A£‡ŞA£ğ=wÁ{Aã6=eíAœÑ;=öáAœK=•’A›c>%pa@uî±Äœt¿ø³”†Ù@ˆÒ¨r¾Œ	@8Ï†ñî     dM438?ó
+=p£×
+@rÀ     N4@æôôa—¸j@2é…Ã˜=?Î¸    A•±FA“Ğ‹<Ö§¢A‰Õg<®À•AØ3<`­ĞA|º<ªAAx·#<ìHA@uíÒõÙ¿ù,dC@Œ™××„t±@}Ì<.g<p     dM438?ó
+=p£×
+@rÀ     N4@Õßf=m¼@3· ñvNn?°2±¼   AaòAà\=qAš"t=:8PA˜wT=XªA—§ó=)kÚA—©1=¬Á»@uîZ ®Í¿ù5ç3Â|ÿ@ÒzMÔ@ˆnÙ¤>     dM438?ó
+=p£×
+@rÀ     N4AÖ<¼@1º°ïv?¶«†    AŒªÛA‹õ<“«9Aƒl\<w½A~°°<ÖÑAzä¼<?ëAxœH<G@uîµwã×Â¿ùCÌ	ô@‹¥ôâZò@„Ôd%|I     dM438?ó
+=p£×
+@rÀ     N4@¶6‡‰"Nè@54§Ä 1i?­„r€   A¨.A§=€¹A <=]²Aœt=GçñAœÂ0=µ¤A›)=»À @uî“J8‘¿ù-`©³@ƒUÕØ@ †ï\>Î     dM438?ó
+=p£×
+@rÀ     N4@ìÂ•à°±j@2ªán8Ş6?¬«`@   A•'}A”´Ï<Z–Aa{<¹eDAcÛ<W ;AŒªP<ÇÏXAŒV£=Cœ%@uîã#vÇÓ¿øÚ9ôiú|@‡ìõt-ß@x #FÂ)     dM438?ó
+=p£×
+@rÀ     N4@Øšå‹¼@3–èñÄbğ?ÀÅ€   Aœ
+7A›	Ë<ä#ÑA‘ş¸<§kAŒ¼C<{ÕÉAŠ+<›F¶Aˆ›ë= !Ø@uîA	öv¿ùHr–Ê%@ÉtoÈ@y|3¨ê¾®     dM438?ó
+=p£×
+@rÀ     N4@Í¶QIÍŒ@4#%“şø^?ÏË-€   A¡KKAŸN˜=NËGA–;<ÍºœAŒæ$<…¢hAˆ¯<ÈÂA†ìF=aa@uîDÄ1Y)¿ùJŞîÜá@’>£7ÃÇV@m¨‡iÏkñ     dM438?ó
+=p£×
+@rÀ     N4@ó5ùYí¶ @2Z`¬€#?°K@   A’RhA‘Ğ<ª¿†AŠw<¥Ş¨A‡
+n<xqtA…l^<³„A„Š.<æ	û@uî4á¿ùG”P„p@“;4çTuÿ@w%=¼-     dM438?ó
+=p£×
+@rÀ     N4@äS)
+âØ´@3^v­F?°ôD   A™¨A™$<ö2£A•·"<·7qA”*¬<¼’lA“¤›=(fÖA“Šé=¨K@uî9lSµ¿ù”jKÛŠ@•óÌ<»@mb†Ñã     dM438?ó
+=p£×
+@rÀ     N4A	@ã ù@1M½wDgc?¬^    AŠ|TAŠ
+Ü<ÜŞA„Çò<Â¹SA‚„ì<Te€A’K<uçAB<«7Ó@uîé ¿ùÈ³áŒ~@›x1Šõ@.³8¨•ûƒ     dM438?ó
+=p£×
+@rÀ     N4@Ïi#soÈ@4±÷E ¯?¿wR    AğgAô¬<¼ş‹A•88<”¾cA¾<»·VAŒô<şSAŒ8V=_o@uíÏ G€Ü¿ú29Êû¬@”€Ún¯jM@{ÂAÊ6O     dM438?ó
+=p£×
+@rÀ     N4@üñ¸:._b@1èršÿdÛ?°.',   AşÈA}W<ÙİA‹<”´ŸAŠc<^¶ÍA‰—j<ÁA‰@i=	{@uîOõ		7¿ù¬ôı(@@—˜$ Æõ@}áÆŸ-ô     dM438?ó
+=p£×
+@rÀ     N4@ÁJuE q2@4¹ŸQ‰?®*Ï€   A¤ºKA¤A =…TÊA4u=1^Aš²<²GíA™Ú=©Q_A˜[=ô·T@uîYù?;¿ùç÷„üõ™@‘™-İ‹på@‰!Ù½[ç     dM438?ó
+=p£×
+@rÀ     N4A*lN¥Ÿuì@/™ÀL²h?°İe   A~ÂxA}´¢<£nØAwhU<¢‰AtöB<#µ¬AtT$<y-^AsØñ<°}@uî½>ö\¿ùuRŸ{›b@—4­évÜ@>àm Æ     dM438?ó
+=p£×
+@rÀ     N4@é7¡¬Q@2ÏqoÁW˜?¿d    A•!ËA”&ª<?úÊAŠÇ<VhÌA…ó’<R¢üAƒ§0<OåA‚ˆ‘<Ş@uîãP#ÖŸ¿ùà«Ø+™@œ—]$uM@G5ç g     dM438?ó
+=p£×
+@rÀ     N4@Ş§d(Ì@3YÔ	‰|?°äGÂ   Aœh‰A›ág<ÁÊ”A™<ï;ÀA—£š<å’HA—eÀ=2tA—	=ª8@uîìî"ªó¿úHËj‡İ@h&xP½lø@”‡æhÊå      dM438?ó
+=p£×
+@rÀ     N4AsŠñZl@0‰º~èS?°æÈâ   A…ÌSA…E<©k»A‚=U<EzšA$î<:¿¥A€Ûy<k.XA€¢‡<z™Y@uïVì†¿ø]òvèUÛ@g¾"ÅJN@“œ¥†€šo     dM438?ó
+=p£×
+@rÀ     N4@¹®½ >F@5P¶ û÷?Ó ô@   A¦úŠA¤–k==AšÌ+<ÅØ¥A]<£$§A‹˜Ì<àX±A‰Bû<œrv@uïDœ't¿ø\É4VD@qãiü%@” U”?Gò     dM438?ó
+=p£×
+@rÀ     N4@èX"‘f@2Ù6gµ²?¬İ€   A–òA–Õ<ğ˜úA‘m²<½îµAÖ<“/èACå<»§AA{Æ=*RV@uïM½gêÒ¿øu´qpcn@v-Le7k@”€WŞ®æT     dM438?ó
+=p£×
+@rÀ     N4@µÚ[_¹¾@592ò<v?µ»÷€   A©ÜÌA©.ì=ô¯A sƒ=Z¾AœÇ{=)b{Ašÿd=«QHA™3#> í@uïUH†Ôó¿øsÊıƒ@zŸëº<x@”æ!?	¦     dM438?ó
+=p£×
+@rÀ     N4@Û2*µ¿Oø@3{0Ì …?Ñ~L@   AšIA˜><v*áA¸<ÚVA„Ú<h	A€­}<¦-A}uD<‡’ß@uïMP«Rz¿ø£Øğk,@„ªx%Yj@‘{ã#Ñ,     dM438?ó
+=p£×
+@rÀ     N4@±„.$‡ø@5v®1ø^Z?¸Ê€   A¦šÿA¥Ô®=~[ÍAv=	úA˜Ç˜=%¾JA–Óü=7íöA•5='Å@uïûì6¿øêigf"7@}OdM¥T@•$kø     dM438?ó
+=p£×
+@rÀ     N4Aaêú@@0S¨³P(Ì?°ÕªQ   A„A„Aƒº×<†KnAC<¬!^Ağ€<LÇ÷AÃy;ô„ùA¹N<‘ã«@uï^äDş¿ø°æˆè@z^M:êÁ‘@™Ogİq     dM438?ó
+=p£×
+@rÀ     N4A[ëÜçïB@0®àä{ü?°ÚóF   A†ÔÄA†Mì<~KAƒ'<±¢Aæ<3™-A<:‡×Ae<ïÀÁ@uï­Ğ˜„Ã¿ø¢¹'xÈ@y¼·‡~s@šsˆy)«‹     dM438?ó
+=p£×
+@rÀ     N4@¤ï×“!|@6Æ5»7?«Â@   A¬ÈKA¬YA>&IA¦ª¢=ß\¶A¤6·=¤;A¢s~=¶4ÓA¡Âİ    @uïÈZlÃ¿ø ¡\ÍÜ@jŠm(á@šİ78jäM     dM438?ó
+=p£×
+@rÀ     N4@°xEp@5‡É×x•?Å:ö    A¨óA§.D=)xA,='£(A—iF=	ãWA”#=P{ĞA’¡=QS‘@uïĞ+‹ß¿øbƒöC&*@ƒ~¤5À@›ìœË	™     dM438?ó
+=p£×
+@rÀ     N4@òNÌÅòy”@2gÂ‰‚Rz?±5hÀ   A’œ\A’±=w˜AŠÃ<¶+€A†ñy<¯„;A…à<‰yA„¹1<½o‡@uïãxÍÆ¿øß¢¯8À$@~NÜó4@›=İk/     dM438?ó
+=p£×
+@rÀ     N4A@"E|ªL…@-2rFV×?¬	t`   AlpAk=$<¥ßA`j^<ÖA[¤f    AY“§<G…öAXn<iá@uïÖ·!ÑB¿øµ¿|@‡~q° @˜S°$Lj     dM438?ó
+=p£×
+@rÀ     N4@·¨m5è|›@5##švL?¶–!€   A©ÉoA©¾=ÙŠßA Pt=ikèAœ|D="Aš¸Ü=äN<A˜wÒ>­Á@uï˜İpˆ¿ùöÓ	öŒ@‡±Pnú@›³_•»     dM438?ó
+=p£×
+@rÀ     N4@´:³X@5QŒ4º?°æÛ7   A­c/A¬Ûø=½¢HA©›=ÍãA¨Ái>A¨DÚ>-N›Ağ  ÿÀ  @uïßlìœt¿ùãk_«@„¿—¨ºÏ@›;¶Ù»£‡     dM438?ó
+=p£×
+@rÀ     N4AÕ{v Ò@1]ÍÆPõ]?´§Å    AŠ:A‰\ü<¼$KA€Âƒ<ªAzod<vO‹Aw3Œ<·4Au(<•,@uïÖ±Ô\Å¿øë‡Ááf$@‘dŸ>
+p@“à-SÜZZ     dM438?ó
+=p£×
+@rÀ     N4@¹œh%¬2ú@5h–:?²€İ€   AªğA©mé>!¤ÚA¡C =±ø]AßV=ÉBAœ-£=¨ì!Ašë>\@uïHÏ;½&¿ù?ìí/’¢@—ëœS¥M@’gAØ     dM438?ó
+=p£×
+@rÀ     N4@Ì±w×¥&@4,Ø—_zò?«¨Ù@   AªfA©§Ã=‘¯ûA¤²=SùHA¡GD=¼ø"AŸ=k>e-Aš××    @uï.ßu»¶¿ùï„,ĞC@•Æúïd‰@a^ïZøİ     dM438?ó
+=p£×
+@rÀ     N4@Áò]õ­»@4¯F"±o?¸@J€   A¥ğA¤Yî=äKAœà<".A—h,=îOA•TÂ=úËA”Ï«=‹¯³@uïfY¿ù¸®OÏ‘@Œ®v~•š@™l#3XÖ     dM438?ó
+=p£×
+@rÀ     N4@·48—ôÙª@5(† Šj"?Â×¹    A¦œŸA¥o#=ŸóAœ(=<¨xA–NÇ<²geA“,<ŞqA’@L=`ßj@uï³«âY¿ù7ª5‹ó @‘We—Ã @™‡7tIZ     dM438?ó
+=p£×
+@rÀ     N4@åÚ‡Â?„p@2÷6ğØÇ?«éÁ@   A—¸aA—Hº=(ä‰A‘¼>ú0A[W<±@Aw<á[AîÏ>Z-º@uïµFçÍ”¿ùq(#Zª‚@gâ{dúĞÔ@ïFH¤å¬     dM438?ó
+=p£×
+@rÀ     N4@ÆĞÊà;ì@4lt½ P?¶û€   A¢IqA¡‘™=xç]A˜èv<ç7³A”ãD>ö¡‚A“æ<ó*A‘Ğ=3³@uğ
+¤9f¿ø]Ë“«mC@rKléoÚ¡@Ÿ¯©O¯W     dM438?ó
+=p£×
+@rÀ     N4Añ@ „ø@0pë´:Ÿ?­ŞÀ   A…YA„á¦<»O}A€.ğ<aÊYA|u
+<bµ AzæĞ<C€6Ay¸a<l²u@uğ(ÀÏ£œ¿ø|(ÄWƒ@†vú{f—)@¨„q4¬     dM438?ó
+=p£×
+@rÀ     N4@¸Ÿ‹×¢Â@5
+æh6?°âÌ   A«–ÇA«Ø>cmA¨>¹=¬÷rA§¦ä>ÃA¤Ÿv>¨DùA¥“ı    @uğª~{ï¿øüQªÒs@ˆhnÿÈù„@K¸Àã‡     dM438?ó
+=p£×
+@rÀ     N4@·•cFpl`@5$¢eKÜ?°İ&[   A«ÆcA«?z=ÓÈ>A¨\Ì=î•²A§g”=¼DwA¥ĞZ>
+·ÇA¤š    @uğåOMV¿ù²RZY@‚½AÕA2‘@ ·«…‘Í     dM438?ó
+=p£×
+@rÀ     N4@É×ıcD@4R™¿ö»?°ÒÒö   A¤ùA£†b=iL<A ·a=†(ÏAŸÊŠ=ŸïÙAÓr=*HbAß™=e›@uğMLÑ»¿øØ”y”Äq@‡‰ËaşKZ@¡àÈdÉe     dM438?ó
+=p£×
+@rÀ     N4@·„ƒ‹¸µ@5$ÊÈ·¶?°Ès   A¬Ì§A¬Fc=—rA©^q=ªFûA§­İ=ÅkŒA¨N >€Ağ  ÿÀ  @uğyâ5÷Š¿ùŸÒ|T!@p¯ä_Yİ@¥d3Õy     dM438?ó
+=p£×
+@rÀ     N4AçåZ	P@0œM?²ì?°Ö   A†S~A…ÌÊ<G¸áA‚sÍ<ï>AWQ<(AÀ<š0¾A€Üß<¼œ0@uñ¡™¥¬¿ørˆ¡®ù@r¾AèFê@¦·3ğ%F     dM438?ó
+=p£×
+@rÀ     N4@¼"›k@qÀ@4òöÔnÊ?Áyh    A¦ÔA¤ğ>=ñÑA›i<ûÅgA–3…>$tA“£\<óŒ+A’k=”I¸@uñ4"’#5¿ø=ƒ^Ÿ@w“àš@§7áµÄ"     dM438?ó
+=p£×
+@rÀ     N4@÷¡V«cë@2 ÓèYãÉ?¯¿€   A‘òÉA‘sÍ<—^AiÆ<’kÔA‹´ü<ŠAŠĞ’<§~pAŠ{ª<Ş3Ş@uñGTˆ†Ÿ¿ø–¡¢á€Ö@˜]…èí$#@àÒ„Z     dM438?ó
+=p£×
+@rÀ     N4@¸TG¬Í~\@5\¬#	İ?ÌRî    A§:A¥I=¤u/A›``=$M-A“½u<ø}¼A[Ä=R…äA¯°=4ÑZ@uğ—}±K¿ùøxóæ`¾@“(\«Ur@Ÿ³^ô@     dM438?ó
+=p£×
+@rÀ     N4@×/R`ß~Œ@3§oT¡J?¬Íù@   AehAœò0=H½­A˜>¢pA•¶í<««–A”¤Û=²A”â=¡cY@uğ+k k¿ù”s
+ñ6F@•ÄU-ê@ q‰=ÀvÆ     dM438?ó
+=p£×
+@rÀ     N4@½}Å@.˜@4éî¼÷hè?°½7ü   A§Ù·A§SÍ=» 8A¤
+7=aòSA¢¤x=ƒ«“A¡ü»=­M?Ağ  ÿÀ  @uğBäcr¿ùÆ ÔxŠ˜@ŒÁµ¼ñ@£X2³-î     dM438?ó
+=p£×
+@rÀ     N4A	Ò€E @1G‡Ì%u?¯7ŠP   AŠõ¸AŠxÚ<ƒÄÒA†)o<fÃA„xH<|‡Aƒ·l<ßhñAƒ{<‹yè@uğ²ã+›¿ù2¬ŠÑi`@’èe”şôù@¤ì(‰è4/     dM438?ó
+=p£×
+@rÀ     N4@°ó`Ş,*@5ÍÒ9R²?­yÂÀ   A«Ç×A«Qğ>aÖiA¤Sn>ªœA¡d*=¿CĞAŸ,)=üùTAGş>åj@uğîzü— ¿ù/ß—úu@Ê¹ÙûHş@¥»ÅïÉ’Ö     dM438?ó
+=p£×
+@rÀ     N4A!I'…;L@05¿Èn.?¬;×    A‹ÄAÕ<\ô)Aw=?<ŒZArõ<—¡›AqŞ<­V,AoÏº<–ı°@uñ¼×·¿ùLÁ{2³x@›E&¬d–á@¦•ÁÛÄ’     dM438?ó
+=p£×
+@rÀ     N4A5ÙØ¢ñ¥·@.gæ	Kj?°ÛÃl   AvåHAu×Œ<FÖAp‰|<‰$ØAn0²<€RÇAm¨T<¸Am•„<r»@uñ.
+8¿ú0üÏ	}@jØtâ}A@¨pr$ëñ&     dM438?ó
+=p£×
+@rÀ     N4@±q(ª;n@5}‘-Hu†?·¢    AªY¥A©¡(=é`»A¡IŞ=›RMAœîk=xRA›Eü=QŸJA™`Ş=İ›@uñv„Ş|ì¿øeÄ~`¹ê@_ƒÊ¹£@¨íp‡NèÔ     dM438?ó
+=p£×
+@rÀ     N4AN{Ì;O@0É¤/GGD?¬ ı    A†D‚A…Ô~<2ó`A€‘<B/iA{ÿ¬<Š6ïAzô<gG,AxæÎ<ÖŸ¾@uñ‰zqí.¿øKt€VÄ@pøğ†o?@¨ˆIİ„     dM438?ó
+=p£×
+@rÀ     N4@ØâPèL^x@3“Æ³ÛöJ?Ã/    A›ÕßAš¥=†PA‘Ü<¼æ£A‹v4<gg¾AˆÛ\<ÌAA‡sŞ=Ä@uñyt'Ã†¿øwz1n@Sê?b¼±@¨úŞÅ¼ø     dM438?ó
+=p£×
+@rÀ     N4@Ë.ì¾P
+@4;çwŞÁ²?°æCf   A¨6°A§¯~>?A¤†l>ÇA£„D>ÔA£¶T=å‰AŸÍ>T@uñg²ú,¿ø=sÓI)9@Kbê“é<@ªPÆ«|     dM438?ó
+=p£×
+@rÀ     N4@ñ<=Š¿ê@2{"VªÀÓ?¿4    A’+XA‘2®<ƒ0ñA‡´-<u,Aƒ
+<?•aA€ù+<£7ÇA„@<»!c@uñ³î¶+—¿ø5…ÃQVR@kˆ³+%Å@ª˜eõ½h     dM438?ó
+=p£×
+@rÀ     N4@»˜N]3et@4øZeÜE?¹ÌŞ€   A©¸xA¨ê=–4ÖAŸ]>=c­A›«c=R-+AšIî=’A™1#=m‡T@uñÉG[”~¿øg«@§ç@f‹¬÷Çª@¬_áHy.     dM438?ó
+=p£×
+@rÀ     N4@Ì	ğ]ß÷@43B0û¶ú?È>¢    A ~ïAû=GA”œ=ÇAq <£)âA‹{Ş;àJAŠ%<üˆN@uò5Lıì¿ø[t;Y†„@P¸ˆiÂ@¬<¨€7D     dM438?ó
+=p£×
+@rÀ     N4@ç¶’oòl@2àƒ…9l?Êó|    Aã¦Aœ4n=n_ZA‘Òİ<œñ?AŠÿ+<‘A‡ÙS<ÁŸxA†M¬<Ã1@uòÊb[æ¿ø:„Z/QŠ@f8ÍËœ6(@­&,ûä     dM438?ó
+=p£×
+@rÀ     N4@Ä5­,®¤²@4DQï Œ?¬¦“€   A¥~~A¥ä=€ÚAl=Qp5A›w¯=N-ˆA™ä¡=q`»A™ƒa>^Õ@uò+~|ó!¿ø[XU¦ª@sÄÌŒ™gs@­´i½‡Q     dM438?ó
+=p£×
+@rÀ     N4@³Â±i4gU@5U,N¦?°3ß    Aªİ¢Aª\>’©A§'w=PÖŒA¤ôC=±÷ŠA£=ã8èA¤]¶    @uò&nO•¿ø„Óƒ‰¶©@–›èıÑ@¨Ryøîµ     dM438?ó
+=p£×
+@rÀ     N4A$K;úº5@0	'ëKÖ?°¶9š   ArºA€í<IAzŞJ<¦_ZAxa´<‹Å×Awßû<|:OAwh	<éş÷@uñqËñx¿øÎK¿õ@yÑ˜ïË€@ªK¨ÇUè     dM438?ó
+=p£×
+@rÀ     N4@ÉpFW¥d°@4NO9=`æ?¬ù»@   A¢BA¡Î=‚aAœÿö=¶ÕAš¬ü=	â¿A™r¤=)‘@A˜ŒG=±ÖF@uñ½õıÃ®¿ø¡„ĞK@Š¹Ç¤òb@ªÃŸ?     dM438?ó
+=p£×
+@rÀ     N4@úHßû–œ@2<Ö˜?Â;Œ€   A"ŸAŒşæ<ß„‡AƒCn<<Ç·A|Ç<×0Awbb<A¹AtÇ<©*^@uñÎñ6î¿ù&£'o`à@v{Î´ˆ@«Ïº+’:»     dM438?ó
+=p£×
+@rÀ     N4@Å|¾ZĞÀ @4}:Œ¹\ò?°§Áå€  A¦öŸA¦qa=jD˜A£úW=Nü[A¢úÇ<zÍºA òÑ=ä^äA¡K4    @uñø<C(ú¿øô™¼r@…°ŞĞ»’¢@«Ÿ=¤¼>     dM438?ó
+=p£×
+@rÀ     N4@®R÷F.æü@5ÌŞ8?¾C    A«¦Aª+>*İA Àœ=‰¸²Aœ&=M·™A™İŞ=f¶A˜Æ`=ßÀƒ@uñğ“­Õ¿øöarWKp@ƒ
+*€ç@­†V"Ñ¨ë     dM438?ó
+=p£×
+@rÀ     N4@ÃYQÓU¥@4š]jÿ±Ô?°å³x   A¥ÃA¥<_=˜¢”A¢9è=h¼§A¡
+h=-¸(A ›.=âØ©Aµz>„#k@uò9š À¿øİ6¤Ré@…¡çSq¿Ó@­C.ƒö     dM438?ó
+=p£×
+@rÀ     N4@´«Çûåì@5H§wU´?®Õû°   A¨DEA§Èí>5iA£X£=QtFA¡™×=s(A ©X=¸åÄA—z>t«Õ@uò/#ùŸˆ¿øõM)Ûèİ@Œ‡±jN„@¬ñ¿‹lMJ     dM438?ó
+=p£×
+@rÀ     N4@ÿãƒè<äE@1Í„÷kŸ,?«×e    AÆA°h<±ïHA‡Yj<«A„¯Â<Õn6AƒxQ<&)A‚‹ü<šzÇ@uò"õ1¥¿ù8''eÑD@n¯\wû…@©Ÿ½w-v†     dM438?ó
+=p£×
+@rÀ     N4@»Œ!…7Í0@4øÕ#+~N?Ñ£Ó€   A¦‰A¤U=½wÆA›;”=ªˆA‘ <ÜÑSAŒs¾<ÀóêAŠ7š=k¯@uñ£n¡f­¿ùSjX$“&@¶Sä+ @«D‘Ù¦     dM438?ó
+=p£×
+@rÀ     N4@¹¥™:gÈ@5³¹õã?°³D±   AªÇAªAƒ=ÿ}'A§–Ü=Ex A¦»û=ÌÓDA§&>«ÖiAğ  ÿÀ  @uñâjˆl¿ùJõåšd@“n›9š‘@¬şŠÚ,ZB     dM438?ó
+=p£×
+@rÀ     N4@ª¬(3n´^@5ÂvjSÚ?Ä2â€   A¨ĞêA§¼=¶¬A¬Ğ=1fA˜©<®„A•œ=.>ƒA’û=•Ub@uò$ÑI”d¿ùšğ˜%ùu@“jÑ%]D@©h¡é     dM438?ó
+=p£×
+@rÀ     N4Aì›GöÔB@11ÂŠZ¶Ê?µo    AˆhVA‡¿»<É2A~eú=QAw <}UµAsÛ©< Ø†Aq™<‰ˆ@uñbµˆ¿ùš¾¿Ú^í@œ¾×^mäA@§Õß›\f     dM438?ó
+=p£×
+@rÀ     N4AuK…7Æ`@0Oú´§¢?°¥ªâ   Aƒˆ™Aƒl<CİA~ôç<l¥A|WA<šryA{z<Ç?­A{-Ø<¹@@uñ^	¨¬¿úMtm|d @˜G5é4ª@§šŸŸERq     dM438?ó
+=p£×
+@rÀ     N4A1Íf¾ªĞÆ@.ÙÏXUˆ?°d,   Ay/‰Ax)G;Ã€Aq=¯]!AmÇú<OÑµAl¤½<£2ıAl=Ì=‰·”@uñUu[±Ô¿ù÷¬o{·@™÷Şá¶3¥@©ÿ[Û¢Ï~     dM438?ó
+=p£×
+@rÀ     N4@¬¯dåØ¢û@5®>)³ğÌ?ÒÆì€   A«}®A©$Ğ>EÁAê
+=V:A•%î<ËÔØA‘*=oŒA"ß>‚>-@uñ±€]W¿úeÙ2¨š@š°p}¢Lh@­3°² ô	     dM438?ó
+=p£×
+@rÀ     N4A³”N#Ğ@1²NL´ ?°jÕ`   A‰üŠA‰y3<F³ A…ÔÊ<`0A„P»<&Ó]AƒâA<ªÎÀAƒ”<´’â@uò,L!\¿ú&N¹<@™·ï.@­£Ô‡¥¯P     dM438?ó
+=p£×
+@rÀ     N4@äF“ú	Ø@3
+½âº?¿!ü    A–÷IA•ş9<Æğ6AŒ¤s<ˆşA‡Õ<ccÛA…ª$<¬”ÔA„˜|<á-Ï@uò<êK£˜¿úØêow>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
